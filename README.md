@@ -25,13 +25,7 @@ I value clarity, consistency, and continuous learning over rushing into titles.
 
 - Data Foundations: Statistics, data analysis concepts
 
-Tools & Concepts:
-
-- Git & GitHub
-
-- Problem-solving with code
-
-- Data-driven thinking
+- Tools & Concepts: Git & GitHub, problem-solving with code, data-driven thinking
 
 (AI/ML projects coming soon 🚧)
 
