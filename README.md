@@ -21,9 +21,9 @@ I value clarity, consistency, and continuous learning over rushing into titles.
 
 🧠 What I’m Learning
 
-Programming: JavaScript, Python, SQL (learning)
+- Programming: JavaScript, Python, SQL (learning)
 
-Data Foundations: Statistics, data analysis concepts
+- Data Foundations: Statistics, data analysis concepts
 
 Tools & Concepts:
 
